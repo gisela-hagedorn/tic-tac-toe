@@ -9,7 +9,7 @@ A unique feature implemented is "time-travel" allowing the user to go back to an
 This application was build with fundamental React skills using Hooks, state, components, etc. within VSCode.
 
 ## Current App
-
+[Video of working Tic-Tac-Toe app.](https://github.com/gisela-hagedorn/tic-tac-toe/assets/124069164/1796b069-aea3-4726-b29e-bce90385928f)
 
 ## Future Upgrades
 In the future, I want to add improvements such as:
